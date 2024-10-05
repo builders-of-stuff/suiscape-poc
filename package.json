@@ -44,6 +44,7 @@
     "@sveltejs/adapter-static": "^3.0.5",
     "bits-ui": "^0.21.16",
     "clsx": "^2.1.1",
+    "phaser": "^3.85.2",
     "svelte-radix": "^1.1.1",
     "tailwind-merge": "^2.5.3",
     "tailwind-variants": "^0.2.1"
